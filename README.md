@@ -1,2 +1,2 @@
-# DALI_Application
+# DALI Application
 Application to DALI's Data Team
