@@ -113,7 +113,6 @@ wiid_select %>%
   theme(text = element_text(size = 8),
         plot.title = element_text(hjust = 0.5),
         plot.subtitle = element_text(hjust = 0.5),
-        axis.title.y = element_blank(),
         legend.position = "bottom")
 
 
